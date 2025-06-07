@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # --- Config ---
-BOT_TOKEN = "7629568164:AAH9ZiSqwygbTFhodP_UHPRATwgcP6wnMNs"
+BOT_TOKEN = ""
 CHANNEL_USERNAME = "@smmpannel_fri"
 LOG_CHANNEL_ID = -1002638516308
 POINTS_PER_REFER = 5
